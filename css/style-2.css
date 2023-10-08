@@ -1,0 +1,233 @@
+*{
+   margin: 0px;
+   padding: 0px;
+   
+}
+.body{
+
+background-color: rgb(32, 32, 32);
+height: 40vh;
+} 
+/* ====================================================================================================== */
+/* ====================================================================================================== */
+/* ====================================================================================================== */
+/* ====================================================================================================== */
+
+ .container-fluid{
+    background-color: rgb(14, 9, 9);
+    margin-top: -8px;
+
+}
+
+
+ .nav-item{
+    background-color: black;
+ }
+ .dropdown-menu{
+    background-color: black;
+
+ }
+#vvv{
+   background-color: black;
+
+}
+/* ====================================================================================================== */
+/* ====================================================================================================== */
+/* ====================================================================================================== */
+/* ====================================================================================================== */
+.headc{
+   width: 100VW;
+   height:40VH ;
+   margin: 0vw;
+   padding: 1vw;
+   color: aliceblue;
+   background-color: black;
+   transform: translate(0vw,6vh);
+}
+/* ====================================================================================================== */
+/* #welcome{
+   font:bolder;
+} */
+/* ====================================================================================================== */
+/* ====================================================================================================== */
+/* ====================================================================================================== */
+/* .headc{
+
+   transform: skewx(10deg);
+   line-height: 80px; */
+/* } */
+.devp{
+   color: rgb(0, 0, 0);
+   text-size-adjust:unset;   
+    margin: 150vw;
+    justify-content:space-between;
+    transform: translate(40vw,-40vh);
+    display: inline-block;
+
+       /* height: 2vh; */
+       padding: 11vw;
+       width: 500vw;
+       font-size:2vw;
+       font:bolder;
+        margin: 2vw ; 
+        
+}
+.h21 {
+
+       /* text-decoration: underline;    */
+       display: flex;
+       justify-content:left;
+          
+}
+/* ====================================================================================================== */
+/* color: rgb(111, 184, 247);
+width:49vw;
+height: 10vw;
+transform: translate(5vw,5vh);
+} */
+.devp2 button{
+   width: 19vw;
+   font-size: 2.5vw;
+   height: 6.5vh;
+   box-shadow:  0.5pc 0.5pc 1pc;
+   color: rgb(111, 184, 247);
+   background-color: black;
+   border:none;
+   transform: translate(40vw,3vh);
+}.devp2 button:hover {
+   color: rgb(0, 0, 0);
+   background-color: rgb(255, 255, 255);
+}
+/* ====================================================================================================== */
+/* ====================================================================================================== */
+/* ====================================================================================================== */
+.parent2{
+   background-color: black;
+   width: 100vw;
+   height: 250vW;
+   transform: translate(0vw,10vh);
+   border: solid double white 3vw inset;
+   box-shadow: 2px 2px 55px black;
+
+   border: 3px solid ;
+   border-color: linear-gradient(to right, aqua,green,blue,yellow);
+   animation-name: my-animation;
+   animation-iteration-count:  infinite;
+   animation-duration: 5s;
+   animation-direction: alternate;
+   box-shadow: 2px 2px 55px black;
+
+}  
+     
+@keyframes my-animation {
+       10% {
+         border-color: aqua;
+       }
+       40% {
+         border-color:green;
+       }
+       70%{
+         border-color: yellow
+       }
+       100% {
+         border-color: blue;
+       }
+     }
+
+/* <!-- ========================================================================================== --> */
+.h1bc2{
+   color: rgb(111, 184, 247);
+   font-size: 5vw;
+   width:29vw;
+   height: 10vw;
+   transform: translate(5vw,5vh);
+box-shadow:  0.5pc 0.5pc 1pc;
+}
+/* <!-- ========================================================================================== --> */
+/* <!-- ========================================================================================== --> */
+
+
+.blocknum1c button {
+   width: 13vw;
+   color: rgb(111, 184, 247);
+   background-color: black;
+   border:rgb(111, 184, 247) 2px solid;
+   border-radius: 25%;
+   transform: translate(43vw,12vh);
+}.blocknum1c button:hover {
+   color: rgb(0, 0, 0);
+   background-color: rgb(255, 255, 255);
+}
+.blocknum1c svg{
+   color: aliceblue;
+
+   transform: translate(0vw,10vh);
+   width: 100vw;
+   height: 25vw;
+}
+.blocknum1c h2{
+   color: aliceblue;
+font-size: 3vw;
+   transform: translate(35vw,12vh);
+   width: 40vw;
+   height: 5vw;
+}
+/* <!-- ========================================================================================== --> */
+
+.blocknum2c button {
+   width: 13vw;
+   color: rgb(111, 184, 247);
+   background-color: black;
+   border:rgb(111, 184, 247) 2px solid;
+   border-radius: 25%;
+   transform: translate(43vw,25vh);
+}.blocknum2c button:hover {
+   color: rgb(0, 0, 0);
+   background-color: rgb(255, 255, 255);
+}
+.blocknum2c svg{
+   color: aliceblue;
+
+   transform: translate(0vw,20vh);
+   width: 100vw;
+   height: 25vw;
+}
+.blocknum2c h2{
+   color: aliceblue;
+font-size: 3vw;
+   transform: translate(41vw,25vh);
+   width: 40vw;
+   height: 5vw;
+}
+
+/* <!-- ========================================================================================== --> */
+.blocknum3c button {
+   width: 13vw;
+   color: rgb(111, 184, 247);
+   background-color: black;
+   border:rgb(111, 184, 247) 2px solid;
+   border-radius: 25%;
+   transform: translate(43vw,35vh);
+}.blocknum3c button:hover {
+   color: rgb(0, 0, 0);
+   background-color: rgb(255, 255, 255);
+}
+.blocknum3c svg{
+   color: aliceblue;
+
+   transform: translate(0vw,30vh);
+   width: 100vw;
+   height: 25vw;
+}
+.blocknum3c h2{
+   color: aliceblue;
+font-size: 3vw;
+   transform: translate(43vw,35vh);
+   width: 40vw;
+   height: 5vw;
+}
+
+/* <!-- ========================================================================================== --> */
+/* <!-- ========================================================================================== --> */
+/* <!-- ========================================================================================== --> */
+
