@@ -2,15 +2,19 @@ body{
  border-top:20px black double;
  border-bottom: 20px black double;
  height: 85vh;
- width: 105vw;
-background-color: rgb(255, 255, 255);
+ width: 105vw; 
+background-color: rgb(103, 70, 174);
 transform: translate(-3vw,2vh);
+
+
 
 }
 
+
 .img1 img{
 
-    transform: translate(22vw,5vh);
+    background-size: cover;
+    transform: translate(20vw,5vh);
         width: 65vw;
         height: 50vh;
 }
@@ -24,20 +28,20 @@ h2{
     background-color: rgb(255, 255, 255);
 /* text-decoration: underline; */
 box-shadow: 2px  20px;
-transform: translate(8vw,19vh);
+transform: translate(6vw,19vh);
 
 }
 .but{
     /* z-index: 3index; */
     border: none;
-    transform: translate(46vw,5vh);
+    transform: translate(45vw,5vh);
     font-size: 1.9vw ;
     width: 17vw;
     height: 5vh;
     color: rgb(255, 255, 255);
     /* opacity: 50%; */
     background-color: rgb(28, 28, 28) ;
-    border-radius: 5% 2px;
+    border-radius:2px 20px;
     box-shadow: 2px 2px 20px rgb(117, 117, 117);
 
 }
@@ -58,5 +62,4 @@ border: 2px black;
 .line34{
 /* border-bottom-left-radius: 0%; */
 border: 2px black;
-
 }

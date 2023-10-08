@@ -45,36 +45,21 @@ height: 40vh;
    transform: translate(0vw,6vh);
 }
 /* ====================================================================================================== */
-/* #welcome{
-   font:bolder;
-} */
-/* ====================================================================================================== */
-/* ====================================================================================================== */
-/* ====================================================================================================== */
-/* .headc{
 
-   transform: skewx(10deg);
-   line-height: 80px; */
-/* } */
-.devp{
-   color: rgb(0, 0, 0);
-   text-size-adjust:unset;   
-    margin: 150vw;
-    justify-content:space-between;
-    transform: translate(40vw,-40vh);
-    display: inline-block;
+.devp2 h2{
+   color: rgb(253, 241, 241);
+    transform: translate(2vw,-2vh);
+     font-family:serif;
+       padding: 1vw;
+       width: 40vh;
+       font-size:2.5vh;
+        margin: 0vw ; 
+        font-weight: bolder;
 
-       /* height: 2vh; */
-       padding: 11vw;
-       width: 500vw;
-       font-size:2vw;
-       font:bolder;
-        margin: 2vw ; 
-        
 }
 .h21 {
-
-       /* text-decoration: underline;    */
+       font-weight: bolder;
+       font-style:oblique;
        display: flex;
        justify-content:left;
           
@@ -86,10 +71,11 @@ height: 10vw;
 transform: translate(5vw,5vh);
 } */
 .devp2 button{
+   border-radius: 2px 20px;
    width: 19vw;
    font-size: 2.5vw;
    height: 6.5vh;
-   box-shadow:  0.5pc 0.5pc 1pc;
+   box-shadow:  0.2pc 0.1pc 0.3pc;
    color: rgb(111, 184, 247);
    background-color: black;
    border:none;
@@ -105,7 +91,7 @@ transform: translate(5vw,5vh);
    background-color: black;
    width: 100vw;
    height: 250vW;
-   transform: translate(0vw,10vh);
+   transform: translate(0vw,6.5vh);
    border: solid double white 3vw inset;
    box-shadow: 2px 2px 55px black;
 
@@ -141,7 +127,8 @@ transform: translate(5vw,5vh);
    width:29vw;
    height: 10vw;
    transform: translate(5vw,5vh);
-box-shadow:  0.5pc 0.5pc 1pc;
+box-shadow:  0.2pc 0.1pc 0.3pc;
+border-radius: 2px 20px;
 }
 /* <!-- ========================================================================================== --> */
 /* <!-- ========================================================================================== --> */
