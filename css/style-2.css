@@ -6,7 +6,7 @@
 .body{
 
 background-color: rgb(32, 32, 32);
-height: 40vh;
+height: 42vh;
 } 
 /* ====================================================================================================== */
 /* ====================================================================================================== */
@@ -96,7 +96,7 @@ transition: 1s;
 .parent2{
    background-color: black;
    width: 100vw;
-   height: 213vW;
+   height: 230vw;
    transform: translate(0vw,4vh);
    border: solid double white 3vw inset;
    box-shadow: 2px 2px 55px black;
@@ -320,8 +320,8 @@ font-size: 3vw;
    margin: 0px;
    padding: 0px;
    font-family: serif ;
-   background-color: rgb(137, 227, 252);
-   color: rgb(255, 255, 255);
+   background-color: rgb(23, 23, 23);
+   color: rgb(111, 184, 247);
 }
 .clildlanguage{
    width: 75% ;
@@ -340,7 +340,7 @@ font-size: 4.5vw;
 font-size: 500%;
 font-family:initial;
 height: 9.5vh;
-box-shadow:  0.2pc 0.1pc 0.3pc;
+box-shadow:  0.2pc 0.1pc 0.3pc ;
 color: rgb(111, 184, 247);
 background-color: black;
 border:none;
@@ -361,7 +361,7 @@ background-color: rgb(255, 255, 255);
    justify-content: center;
    text-transform: uppercase;
    border: none;
-   box-shadow: 2PX  10PX black;
+   box-shadow: 2PX  10PX  rgb(111, 184, 247);
    width: 67vw;
    transform: translate(-12vw,1vh);
     transition: 1s;   
@@ -369,7 +369,7 @@ background-color: rgb(255, 255, 255);
    /* height: 40vh; */
 }.block1:hover{
    
-   letter-spacing: 10px;
+   letter-spacing: 6px;
    transition: scale(1.1);
    color: rgb(0, 0, 0);
    background-color: rgb(187, 224, 250);
@@ -383,14 +383,14 @@ background-color: rgb(255, 255, 255);
    justify-content: center;
    text-transform: uppercase;
    border: none;
-   box-shadow: 2PX  10PX black;
+   box-shadow: 2PX  10PX  rgb(111, 184, 247);
    width: 67vw;
    transform: translate(-12vw,1vh);
     transition: 2S;
    /* height: 40vh; */
 }
 .block2:hover{
-   letter-spacing: 10px;
+   letter-spacing: 6px;
    transition: scale(1.1);
    color: rgb(0, 0, 0);
    background-color: rgb(187, 224, 250);
@@ -404,14 +404,14 @@ background-color: rgb(255, 255, 255);
    justify-content: center;
    text-transform: uppercase;
    border: none;
-   box-shadow: 2PX  10PX black;
+   box-shadow: 2PX  10PX  rgb(111, 184, 247);
     width: 67vw;
     transform: translate(-12vw,1vh);
     transition: 2S;
    /* height: 40vh; */
 }
 .block3:hover{
-   letter-spacing: 10px;
+   letter-spacing: 6px;
    transition: scale(1.1);
    color: rgb(0, 0, 0);
    background-color: rgb(187, 224, 250);
@@ -425,14 +425,14 @@ background-color: rgb(255, 255, 255);
    justify-content: center;
    text-transform: uppercase;
    border: none;
-   box-shadow: 2PX  10PX black;
+   box-shadow: 2PX  10PX  rgb(111, 184, 247);
     width: 67vw;
     transform: translate(-12vw,1vh);
     transition: 2S;
    /* height: 40vh; */
 }
 .block4:hover{
-   letter-spacing: 10px;
+   letter-spacing: 6px;
    transition: scale(1.1);
    color: rgb(0, 0, 0);
    background-color: rgb(187, 224, 250);
@@ -441,10 +441,151 @@ background-color: rgb(255, 255, 255);
 
 
 
+/* <!-- ========================================================================================== --> */
+/* <!-- ========================================================================================== --> */
+/* <!-- ========================================================================================== --> */
+/* <!-- ========================================================================================== --> */
+/* <!-- ========================================================================================== --> */
+/* <!-- ========================================================================================== --> */
+/* <!-- ========================================================================================== --> */
+/* <!-- ========================================================================================== --> */
+/* <!-- ========================================================================================== --> */
+/* <!-- ========================================================================================== --> */
+/* <!-- ========================================================================================== --> */
+/* <!-- ========================================================================================== --> */
+/* <!-- ========================================================================================== --> */
+/* <!-- ========================================================================================== --> */
+/* <!-- ========================================================================================== --> */
+/* <!-- ========================================================================================== --> */
+/* <!-- ========================================================================================== --> */
+/* <!-- ========================================================================================== --> */
+/* <!-- ========================================================================================== --> */
+/* <!-- ========================================================================================== --> */
+
+/* index-5 hard skills */
 
 
+.parenthard{
+   margin: 0px;
+   padding: 0px;
+   font-family: serif ;
+   background-color: rgb(23, 23, 23);
+   color: rgb(111, 184, 247);
+}
+.clildhard{
+   width: 75% ;
+   margin: auto;
+   padding: 5%;
+}
+/* <!-- ========================================================================================== --> */
 
+.clildhard .btn{
 
+transform: translate(-7vw,0vh);
+border-radius: 2px 20px;
+width: 70vw;
+margin: 5vw;
+font-size: 4.5vw;
+font-size: 500%;
+font-family:initial;
+height: 9.5vh;
+box-shadow:  0.2pc 0.1pc 0.3pc ;
+color: rgb(111, 184, 247);
+background-color: black;
+border:none;
+transition: 1s;   
+}.clildhard .btn:hover {
+
+letter-spacing: 8px;
+transition: scale(1.1);
+color: rgb(0, 0, 0);
+background-color: rgb(255, 255, 255);
+}
+/* <!-- ========================================================================================== --> */
+
+.block1{
+   display: flex;
+   padding: 2vh;
+   margin: 10vw;
+   justify-content: center;
+   text-transform: uppercase;
+   border: none;
+   box-shadow: 2PX  10PX  rgb(111, 184, 247);
+   width: 95vw;
+   transform: translate(-25vw,1vh);
+    transition: 1s;   
+
+   /* height: 40vh; */
+}.block1:hover{
+   
+   letter-spacing: 6px;
+   transition: scale(1.1);
+   color: rgb(0, 0, 0);
+   background-color: rgb(187, 224, 250);
+}
+/* <!-- ========================================================================================== --> */
+
+.block2{
+   display: flex;
+   padding: 2vh;
+   margin: 10vw;
+   justify-content: center;
+   text-transform: uppercase;
+   border: none;
+   box-shadow: 2PX  10PX  rgb(111, 184, 247);
+   width: 95vw;
+   transform: translate(-25vw,1vh);
+    transition: 2S;
+   /* height: 40vh; */
+}
+.block2:hover{
+   letter-spacing: 6px;
+   transition: scale(1.1);
+   color: rgb(0, 0, 0);
+   background-color: rgb(187, 224, 250);
+}
+/* <!-- ========================================================================================== --> */
+
+.block3{
+   display: flex;
+   padding: 2vh;
+   margin: 10vw;
+   justify-content: center;
+   text-transform: uppercase;
+   border: none;
+   box-shadow: 2PX  10PX  rgb(111, 184, 247);
+    width: 95vw;
+    transform: translate(-25vw,1vh);
+    transition: 2S;
+   /* height: 40vh; */
+}
+.block3:hover{
+   letter-spacing: 6px;
+   transition: scale(1.1);
+   color: rgb(0, 0, 0);
+   background-color: rgb(187, 224, 250);
+}
+/* <!-- ========================================================================================== --> */
+
+.block4{
+   display: flex;
+   padding: 2vh;
+   margin: 10vw;
+   justify-content: center;
+   text-transform: uppercase;
+   border: none;
+   box-shadow: 2PX  10PX  rgb(111, 184, 247);
+    width: 95vw;
+    transform: translate(-25vw,1vh);
+    transition: 2S;
+   /* height: 40vh; */
+}
+.block4:hover{
+   letter-spacing: 6px;
+   transition: scale(1.1);
+   color: rgb(0, 0, 0);
+   background-color: rgb(187, 224, 250);
+}
 /* <!-- ========================================================================================== --> */
 /* <!-- ========================================================================================== --> */
 /* <!-- ========================================================================================== --> */
