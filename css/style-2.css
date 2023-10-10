@@ -78,7 +78,7 @@ transform: translate(5vw,5vh);
    font-size: 400%;
    font-family:initial;
    height: 9.5vh;
-   box-shadow:  0.2pc 0.1pc 0.3pc;
+   box-shadow: 2PX  10PX rgb(255, 255, 255);
    color: rgb(111, 184, 247);
    background-color: black;
    border:none;
