@@ -153,12 +153,13 @@ border-radius: 2px 20px;
 
 
 .blocknum1c button {
-   width: 13vw;
+   width: 18vw;
+   height: 6vh;
    color: rgb(111, 184, 247);
    background-color: black;
    border:rgb(111, 184, 247) 2px solid;
    border-radius: 25%;
-   transform: translate(43vw,12vh);
+   transform: translate(40vw,12vh);
    transition: 1s;
 }.blocknum1c button:hover {
    letter-spacing: 4px;
@@ -183,12 +184,13 @@ font-size: 3vw;
 /* <!-- ========================================================================================== --> */
 
 .blocknum2c button {
-   width: 13vw;
+   width: 18vw;
+   height: 6vh;
    color: rgb(111, 184, 247);
    background-color: black;
    border:rgb(111, 184, 247) 2px solid;
    border-radius: 25%;
-   transform: translate(43vw,25vh);
+   transform: translate(40vw,25vh);
    transition: 1s;
 }.blocknum2c button:hover {
    letter-spacing: 4px;
@@ -213,12 +215,13 @@ font-size: 3vw;
 
 /* <!-- ========================================================================================== --> */
 .blocknum3c button {
-   width: 13vw;
+   width: 18vw;
+   height: 6;
    color: rgb(111, 184, 247);
    background-color: black;
    border:rgb(111, 184, 247) 2px solid;
    border-radius: 25%;
-   transform: translate(43vw,35vh);
+   transform: translate(40vw,35vh);
    transition: 1s;
 }.blocknum3c button:hover {
    letter-spacing: 4px;
