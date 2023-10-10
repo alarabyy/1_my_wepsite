@@ -78,7 +78,7 @@ transform: translate(5vw,5vh);
    font-size: 400%;
    font-family:initial;
    height: 9.5vh;
-   box-shadow: 1PX  4PX rgb(255, 255, 255);
+   box-shadow: 1PX  3PX rgb(255, 255, 255);
    color: rgb(111, 184, 247);
    background-color: black;
    border:none;
@@ -320,8 +320,8 @@ font-size: 3vw;
    margin: 0px;
    padding: 0px;
    font-family: serif ;
-   background-color: rgb(201, 235, 255);
-   color: rgb(0, 0, 0);
+   background-color: rgb(137, 227, 252);
+   color: rgb(255, 255, 255);
 }
 .clildlanguage{
    width: 75% ;
@@ -368,6 +368,7 @@ background-color: rgb(255, 255, 255);
 
    /* height: 40vh; */
 }.block1:hover{
+   
    letter-spacing: 10px;
    transition: scale(1.1);
    color: rgb(0, 0, 0);
