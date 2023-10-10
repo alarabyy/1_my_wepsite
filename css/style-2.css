@@ -84,7 +84,7 @@ transform: translate(5vw,5vh);
    border:none;
 transition: 1s;   
 }.devp2 button:hover {
-   letter-spacing: 4px;
+   letter-spacing: 6px;
    transition: scale(1.1);
    color: rgb(0, 0, 0);
    background-color: rgb(255, 255, 255);
@@ -270,6 +270,9 @@ font-size: 3vw;
 /* <!-- ========================================================================================== --> */
 /* <!-- ========================================================================================== --> */
 /* css to my img  _indx 3*/
+
+
+
 .gelary{
    background-color: black;
 }
@@ -309,6 +312,128 @@ font-size: 3vw;
 /* <!-- ========================================================================================== --> */
 /* <!-- ========================================================================================== --> */
 /* css to my language  _index4  */
+
+.parentlanguage{
+   margin: 0px;
+   padding: 0px;
+   font-family: serif ;
+   background-color: rgb(201, 235, 255);
+   color: rgb(0, 0, 0);
+}
+.clildlanguage{
+   width: 75% ;
+   margin: auto;
+   padding: 5%;
+}
+/* <!-- ========================================================================================== --> */
+
+.clildlanguage .btn{
+
+transform: translate(-7vw,0vh);
+border-radius: 2px 20px;
+width: 70vw;
+margin: 5vw;
+font-size: 4.5vw;
+font-size: 500%;
+font-family:initial;
+height: 9.5vh;
+box-shadow:  0.2pc 0.1pc 0.3pc;
+color: rgb(111, 184, 247);
+background-color: black;
+border:none;
+transition: 1s;   
+}.clildlanguage .btn:hover {
+
+letter-spacing: 8px;
+transition: scale(1.1);
+color: rgb(0, 0, 0);
+background-color: rgb(255, 255, 255);
+}
+/* <!-- ========================================================================================== --> */
+
+.block1{
+   display: flex;
+   padding: 2vh;
+   margin: 10vw;
+   justify-content: center;
+   text-transform: uppercase;
+   border: none;
+   box-shadow: 2PX  10PX black;
+   width: 67vw;
+   transform: translate(-12vw,1vh);
+    transition: 1s;   
+
+   /* height: 40vh; */
+}.block1:hover{
+   letter-spacing: 10px;
+   transition: scale(1.1);
+   color: rgb(0, 0, 0);
+   background-color: rgb(187, 224, 250);
+}
+/* <!-- ========================================================================================== --> */
+
+.block2{
+   display: flex;
+   padding: 2vh;
+   margin: 10vw;
+   justify-content: center;
+   text-transform: uppercase;
+   border: none;
+   box-shadow: 2PX  10PX black;
+   width: 67vw;
+   transform: translate(-12vw,1vh);
+    transition: 2S;
+   /* height: 40vh; */
+}
+.block2:hover{
+   letter-spacing: 10px;
+   transition: scale(1.1);
+   color: rgb(0, 0, 0);
+   background-color: rgb(187, 224, 250);
+}
+/* <!-- ========================================================================================== --> */
+
+.block3{
+   display: flex;
+   padding: 2vh;
+   margin: 10vw;
+   justify-content: center;
+   text-transform: uppercase;
+   border: none;
+   box-shadow: 2PX  10PX black;
+    width: 67vw;
+    transform: translate(-12vw,1vh);
+    transition: 2S;
+   /* height: 40vh; */
+}
+.block3:hover{
+   letter-spacing: 10px;
+   transition: scale(1.1);
+   color: rgb(0, 0, 0);
+   background-color: rgb(187, 224, 250);
+}
+/* <!-- ========================================================================================== --> */
+
+.block4{
+   display: flex;
+   padding: 2vh;
+   margin: 10vw;
+   justify-content: center;
+   text-transform: uppercase;
+   border: none;
+   box-shadow: 2PX  10PX black;
+    width: 67vw;
+    transform: translate(-12vw,1vh);
+    transition: 2S;
+   /* height: 40vh; */
+}
+.block4:hover{
+   letter-spacing: 10px;
+   transition: scale(1.1);
+   color: rgb(0, 0, 0);
+   background-color: rgb(187, 224, 250);
+}
+
 
 
 
