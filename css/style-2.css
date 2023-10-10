@@ -42,26 +42,28 @@ height: 42vh;
    padding: 1vw;
    color: aliceblue;
    background-color: black;
+   justify-content: center;
+
    transform: translate(0vw,6vh);
 }
 /* ====================================================================================================== */
 
 .devp2 h2{
    color: rgb(253, 241, 241);
-    transform: translate(2vw,-2vh);
-     font-family:serif;
+    /* transform: translate(2vw,-2vh); */
+     font-family:initial;
        padding: 1vw;
+       justify-content: center;
        width: 45vh;
        font-size:2.5vh;
         margin: 0.4vw ; 
-        font-weight: bolder;
 
 }
 .h21 {
        font-weight: bolder;
        font-style:oblique;
        display: flex;
-       justify-content:left;
+       justify-content:center;
           
 }
 /* ====================================================================================================== */
@@ -71,7 +73,7 @@ height: 10vw;
 transform: translate(5vw,5vh);
 } */
 .devp2 button{
-   transform: translate(5vw,0vh);
+   transform: translate(5vw,-1vh);
    border-radius: 2px 20px;
    width: 90vw;
    font-size: 3.5VW;
@@ -96,7 +98,7 @@ transition: 1s;
    background-color: black;
    width: 100vw;
    height: 230vw;
-   transform: translate(0vw,4vh);
+   transform: translate(0vw,6vh);
    border: solid double white 3vw inset;
    box-shadow: 2px 2px 55px black;
 
